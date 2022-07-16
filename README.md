@@ -2,7 +2,7 @@
 
 *Projeto sobre o ar dos botecos pelo Brasil*
 
-<img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_01.png" width="300" height="500" /> <img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_02.png" width="300" height="500" /> <img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_03.png" width="300" height="500" />
+<img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_01.png" width="280" height="500" /> <img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_02.png" width="280" height="500" /> <img src="https://github.com/carinadourado/oardoboteco/blob/main/stories_03.png" width="280" height="500" />
 
 Este é um **projeto fictício** de jornalismo colaborativo.
 
